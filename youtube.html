@@ -6,11 +6,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>youtube clone</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
+    
+        
     <style>
+
+        p{
+            font-family: Roboto,Arial;
+        }
         .thumbnail {
             width: 300px;
             display: block;
         }
+
 
         .search-bar {
             font-size: 20px;
@@ -19,11 +30,15 @@
 
         .video-title {
             margin-top: 0;
+            font-size: 14px;
+            font-weight: bold;
+            line-height: 20px;
         }
 
         .video-author,
         .video-stats {
             display: block;
+         
         }
 
         .video-preview {
@@ -37,10 +52,12 @@
         .chanel-picture {
             display: inline-block;
             width: 50px;
+            vertical-align: top;
         }
 
         .picture {
-            width: 100%;
+            width: 40px;
+            border-radius: 50px;
         }
 
         .video-infos {
@@ -48,13 +65,22 @@
             width: 200px;
             
         }
+
+        .thumbnail-row{
+            margin-bottom: 12px;
+        }
+
+        .video-author{
+            font-size: 12px;
+            color: gray;
+        }
     </style>
 </head>
 
 <body>
     <input class="search-bar" type="text" name="" id="" placeholder="Search">
     <div class="video-preview">
-        <div>
+        <div class="thumbnail-row">
             <img class="thumbnail" src="thumbnails/thumbnail-1.webp" alt="">
         </div>
         <div>
@@ -66,19 +92,20 @@
                 <p class="video-title">
                     Talking Tech and AI With Google CEO Sundar Pichai!
                 </p>
-            </div>
 
-            <p class="video-author">
-                Marquess Brownlee
-            </p>
-            <p class="video-stats">
-                3.4M views &#183; 6 months ago
-            </p>
+                <p class="video-author">
+                    Marquess Brownlee
+                </p>
+                <p class="video-stats">
+                    3.4M views &#183; 6 months ago
+                </p>
+            </div>
         </div>
     </div>
 
     <div class="video-preview">
         <img class="thumbnail" src="thumbnails/thumbnail-2.webp" alt="">
+        
         <p class="video-title">
             Try Not To Laugh Challenge #9
         </p>
