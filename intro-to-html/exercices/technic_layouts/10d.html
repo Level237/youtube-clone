@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 10d</title>
+</head>
+<style>
+    .profil{
+            width: 300px;
+            height: 300px;
+            object-fit: cover;
+            object-position: center;
+            display: block;
+            margin-bottom: 10px;
+            box-shadow: 1px 3px 1px rgba(0, 0, 0, 0.233);
+        }
+        .profil-container{
+            display: block;
+        }
+
+        .friend-container{
+            margin-bottom: 18px;
+            
+        }
+        .friend-profil{
+            width: 40px;
+            height: 40px;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 50%;
+            display: inline-block;
+            
+        }
+        .number-friend{
+            display: inline-block;
+            vertical-align: top;
+            margin-top: 10px;
+            color: gray;
+        }
+        button{
+            display: inline;
+            background-color: rgb(12, 114, 209);
+            border: none;
+            color: aliceblue;
+            padding-left: 15px;
+            padding-right: 15px;
+            padding-bottom: 10px;
+            padding-top: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .name{
+            font-weight: bold;
+            margin-left: 2px;
+        }
+        .container{
+            margin-left: 20px;
+            width: 300px;
+            box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.37);
+            padding-bottom: 20px;
+            display: inline-block;
+        }
+        .description{
+            margin-left: 8px;
+        }
+</style>
+<body>
+    <div>
+        <div class="container">
+            <div class="profil-container">
+                <img  class="profil" src="cat.jpg" alt="">
+            </div>
+            <div class="description">
+                <p class="name">
+                    Oliver
+                </p>
+                <div class="friend-container">
+                    <img class=" friend-profil" src="cat.jpg" alt="">
+                    <p class="number-friend">
+                        2 mutual friends
+                    </p>
+                </div>
+                <button>
+                    Add Friend
+                </button>
+            </div>
+        </div>
+        <div class="container">
+            <div class="profil-container">
+                <img  class="profil" src="cat1.jpg" alt="">
+            </div>
+            <div class="description">
+                <p class="name">
+                    Mimi
+                </p>
+                <div class="friend-container">
+                    <img class=" friend-profil" src="cat1.jpg" alt="">
+                    <p class="number-friend">
+                        3 mutual friends
+                    </p>
+                </div>
+                <button>
+                    Add Friend
+                </button>
+            </div>
+        </div>
+        <div class="container">
+            <div class="profil-container">
+                <img  class="profil" src="cat2.jpg" alt="">
+            </div>
+            <div class="description">
+                <p class="name">
+                    Rex
+                </p>
+                <div class="friend-container">
+                    <img class=" friend-profil" src="cat2.jpg" alt="">
+                    <p class="number-friend">
+                        4 mutual friends
+                    </p>
+                </div>
+                <button>
+                    Add Friend
+                </button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
