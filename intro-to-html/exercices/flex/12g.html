@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 12g</title>
+</head>
+    <style>
+
+        .profil-preview{
+            width: 100px;
+            margin-right: 25px;
+        }
+        .profil{
+            width: 58px;
+            height: 58px;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 50%;
+            }
+            .container{
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                width: 450px;
+                justify-content: space-between;
+            }
+
+            button{
+            border: none;
+            color: white;
+            background-color: rgb(0, 153, 255);
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 15px;
+            padding-right: 15px;
+            font-weight: bold;
+            font-size: 16px;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        .name{
+            
+            font-weight: bold;
+        }
+        .type{
+            
+            color: gray;
+        }
+        .celebry{
+            color: gray;
+        }
+        .description{
+            flex: 1;
+            margin-left: 12px;
+        }
+    </style>
+<body>
+    <div>
+        <div class="container">
+            <div class="profil-view">
+                <img class="profil" src="cat.jpg" alt="">
+            </div>
+            <div class="description">
+                <p class="name">
+                    oliver
+                </p>
+                <p class="type">
+                    the cat
+                </p>
+                <p class="celebry">
+                    Popular
+                </p>
+            </div>
+            <div class="grid">
+                <button>
+                    Follow
+                </button>
+            </div>
+            
+        </div>
+        <div class="container">
+            <div class="profil-view">
+                <img class="profil" src="cat1.jpg" alt="">
+            </div>
+            <div class="description">
+                <p class="name">
+                    Mimi
+                </p>
+                <p class="type">
+                    Sleppy cat
+                </p>
+                <p class="celebry">
+                    Popular
+                </p>
+            </div>
+            <div class="grid">
+                <button>
+                    Follow
+                </button>
+            </div>
+            
+        </div>
+        <div class="container">
+            <div class="profil-view">
+                <img class="profil" src="cat2.jpg" alt="">
+            </div>
+            <div class="description">
+                <p class="name">
+                    Rex
+                </p>
+                <p class="type">
+                    Happy Buildog
+                </p>
+                <p class="celebry">
+                    Popular
+                </p>
+            </div>
+            <div class="grid">
+                <button>
+                    Follow
+                </button>
+            </div>
+            
+        </div>
+    </div>
+    
+</body>
+</html>
