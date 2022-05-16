@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 12e</title>
+</head>
+    <style>
+        .contain{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+
+        }
+        .contain:hover{
+            background-color: rgba(128, 128, 128, 0.562);
+        
+        }
+        .home{
+            width: 75px;
+        }
+        .number{
+            background-color: rgba(0, 140, 255, 0.795);
+            color:white;
+            padding-left: 8px;
+            padding-right: 8px;
+            padding-top: 4px;
+            padding-bottom: 4px;
+            border-radius: 10px;
+            font-weight: bold;
+            font-size: 14px;
+        }
+    </style>
+<body>
+    <div style="width:350px ;">
+        <div class="contain">
+            <p class="home">
+                Home
+            </p>
+            <p class="number">
+                14
+            </p>
+        </div>
+        <div class="contain">
+            <p class="home">
+                Notifications
+            </p>
+            <p class="number">
+                3
+            </p>
+        </div>
+        <div class="contain">
+            <p class="home">
+                Messages
+            </p>
+            <p class="number">
+                5
+            </p>
+        </div>
+    </div>
+</body>
+</html>
