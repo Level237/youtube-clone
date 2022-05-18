@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 13c</title>
+</head>
+    <style>
+        .box-container{
+            height: 200px;
+            width: 500px;
+            background-color: rgb(235, 235, 235);
+            padding-right: 15px;
+            padding-top: 1px;
+        }
+        .reception-bloc{
+            display: block;
+            margin-left: 15px;
+        }
+        .inbox-box{
+            display: flex;
+            align-items: center;
+            margin-left: 12px;
+            margin-top: 40px;
+            justify-content: space-between;
+        }
+        
+        .profil{
+            width: 48px;
+            height: 48px;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 50%;
+        }
+        .profil-bloc{
+            width: 45px;
+            margin-right: 8px;
+        }
+        .header-inline{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-top: 0;
+            margin-bottom: 0;
+            height: 20px;
+        }
+
+        .promo{
+            font-weight: bold;
+            font-size: 15px;
+            margin-top: 2px;
+            margin-bottom: 0;
+            
+        }
+        
+        .time,.reception,.message{
+            color:gray;
+            font-size: 12px;
+        }
+        .promo-bloc{
+            width: 350px;
+            display: block;
+            margin-top: 0;
+            margin-bottom: 0;
+            height: 20px;
+        }
+        .message{
+            font-size: 14px;
+            margin-top: 2px;
+        }
+        .message-bloc{
+            height: 20px;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        .infos-box{
+            flex: 1;
+            
+        }
+        .reception{
+            
+        }
+        .background-box{
+            cursor: pointer;
+        }
+        .background-box:hover{
+            background-color: rgba(0, 255, 255, 0.445);
+        }
+    </style>
+<body>
+    <div class="box-container">
+        <div class="reception-bloc">
+            <p class="reception">
+                All Inboxes
+            </p>
+            
+        </div>
+        <div class="background-box">
+            <div class="inbox-box">
+                <div class="profil-bloc">
+                    <img class="profil" src="cat.jpg" alt="">
+                </div>
+                <div class="infos-box">
+                    <div class="header-inline">
+                        <p class="promo">
+                            Chewy Promotions
+                        </p>
+                        <p class="time">
+                            4:55 PM
+                        </p>
+                    </div>
+                    <div class="promo-bloc">
+                        <p class="promo">
+                            Biggest sales of the year!
+                        </p>
+                    </div>
+                    <div class="message-bloc">
+                        <p class="message">
+                            Hey there we're writing to tell you about our...
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        
+    </div>
+</body>
+</html>
