@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Exercise 13f</title>
+    </head>
+        <style>
+            .container{
+                display: block;
+            }
+
+            .profil-container{
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: space-between;
+            }
+            .picture-container{
+                width: 65px;
+            }
+
+            .picture{
+                width: 65px;
+                height: 65px;
+                object-fit: cover;
+                object-position: center;
+                border-radius: 50%;
+            }
+            .header{
+                display: block;
+            }
+            .description-container{
+                flex: 1;
+                margin-left: 10px;
+            }
+            .link{
+                font-weight: bold;
+                font-size: 15px;
+            }
+            .name{
+                color:gray;
+                font-weight: normal;
+            }
+            .information{
+                width: 390px;
+                line-height: 22px;
+                font-size: 15px;
+            }
+            .youtube-link-container{
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: space-between;
+            }
+            .block-link-container{
+                display: block;
+                border: solid;
+                border-color: rgb(226, 226, 226);
+                border-top: 12px;
+                
+                border-bottom: 12px;
+                border-radius: 20px;
+            }
+            .link-picture{
+                width: 90px;
+                height: 100px;
+                border: none;
+                border-radius: 12px 0px 2px 12px;
+                background-color: rgb(223, 223, 223);
+            }
+            .information-link{
+                flex: 1;
+                background-color: rgb(240, 240, 240);
+                
+                height: 100px;
+            }
+            .block-information{
+                display: block;
+                margin-left: 10px;
+            }
+        </style>
+    <body>
+        <div class="container">
+            <div class="profil-container">
+                <div class="picture-container">
+                    <img class="picture" src="cat.jpg" alt="">
+                </div>
+                <div class="description-container">
+                    <div class="header">
+                        <div style="margin-top: 20px;margin-bottom:0;height: 10px;">
+                            <p class="link">
+                                supersimple.dev <span class="name">@SuperSimpleDev</span>
+                            </p>
+                        </div>
+                        <div style="margin-top: 0px;">
+                            <p class="information">
+                                What is backend web development? A complete overview.New video is up!
+                            </p>
+                        </div>
+                        
+                    </div>
+                    
+                </div>
+                
+            </div>
+            <div class="block-link-container">
+                <div class="youtube-link-container">
+                    <div class="link-picture">
+                        
+                    </div>
+                    <div class="information-link">
+                        <div class="block-information">
+                            <p style="color: gray;">
+                                youtube.com
+                            </p>
+                            <p style="width: 300px;">
+                                Backend web development - a complete overview (2021)
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                
+            </div>
+        </div>
+    </body>
+</html>
