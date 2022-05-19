@@ -8,6 +8,9 @@
     right: 0;
     position: fixed;
     background-color: white;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(226, 226, 226);
 }
 .left-section{
     
