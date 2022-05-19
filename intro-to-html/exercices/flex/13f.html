@@ -59,21 +59,31 @@
                 border: solid;
                 border-color: rgb(226, 226, 226);
                 border-top: 12px;
-                
+                border-right: 12px;
+                border-left: 18px;
+                width: 400px;
                 border-bottom: 12px;
                 border-radius: 20px;
+                margin-left: 70px;
             }
             .link-picture{
-                width: 90px;
+                width: 130px;
                 height: 100px;
-                border: none;
-                border-radius: 12px 0px 2px 12px;
+                border: solid;
+                border-width: 0.1px;
+                border-color: rgb(214, 214, 214);
+                border-right: 2px;
+                border-radius: 12px 0px 0px 12px;
                 background-color: rgb(223, 223, 223);
             }
             .information-link{
                 flex: 1;
-                background-color: rgb(240, 240, 240);
-                
+                background-color: rgb(255, 254, 254);
+                border-radius: 0px 12px 12px 0px;
+                border: solid;
+                border-width: 0.1px;
+                border-color: rgb(214, 214, 214);
+                border-left: 2px;
                 height: 100px;
             }
             .block-information{
@@ -112,10 +122,13 @@
                     </div>
                     <div class="information-link">
                         <div class="block-information">
-                            <p style="color: gray;">
-                                youtube.com
-                            </p>
-                            <p style="width: 300px;">
+                            <div style="margin-top: 0;margin-bottom: 0;height: 8px;">
+                                <p style="color: gray;">
+                                    youtube.com
+                                </p>
+                            </div>
+                            
+                            <p style="width: 300px; line-height: 23px;">
                                 Backend web development - a complete overview (2021)
                             </p>
                         </div>
