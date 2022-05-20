@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 14f</title>
+    <style>
+        .sidebar{
+            background-color: rgb(49, 49, 49);
+            position: fixed;
+            top: 0;
+            color: white;
+            left: 0;
+            bottom: 0;
+            width: 75px;
+            padding-top: 10px;
+            padding-left: 10px;
+
+        }
+        .picture{
+            width: 60px;
+            height: 60px;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 50%;
+            
+        }
+        .sidebar-right{
+            position: fixed;
+            top: 0;
+            left: 75px;
+            bottom: 0;
+            background-color: rgb(77, 77, 77);
+            width: 230px;
+            padding-left: 20px;
+            padding-right: 15px;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+                <img class="picture" src="cat.jpg" alt="">
+                <img class="picture" src="cat1.jpg" alt="">
+                <img class="picture" src="cat2.jpg" alt="">
+        </div>
+        <div class="sidebar-right">
+            <div>
+                <div style="display: flex;flex-direction:row;align-items: center;justify-content: space-between;height: 20px;">
+                    <p style="color: white; font-size:13px;">
+                        INFO
+                    </p>
+                    <p style="color: white;">
+                        +
+                    </p>
+                </div>
+                
+                <p style="color: rgba(255, 255, 255, 0.534);">
+                    # new-videos
+                </p>
+                <p style="color: rgba(255, 255, 255, 0.534);">
+                    # new-updates
+                </p>
+                <p style="color: rgba(255, 255, 255, 0.534);;">
+                    # faq
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
