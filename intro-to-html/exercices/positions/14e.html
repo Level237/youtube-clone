@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            height: 3000px;
+        }
+        .header{
+            background-color: white;
+            position: fixed;
+            left: 0;
+            right: 0;
+            top: 0;
+            height: 60px;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+            border-bottom-style: solid;
+            border-bottom-color: rgb(228, 226, 226);
+            border-bottom-width: 1px;
+        }
+        .picture{
+            width: 40px;
+            height: 40px;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 50%;
+            vertical-align: middle;
+        }
+        .picture-block{
+            width: 200px;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            vertical-align: middle;
+            margin-left: 80px;
+        }
+        .button-block{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-right: 80px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="picture-block">
+            <img class="picture" src="cat1.jpg" alt="">
+            <p style="font-weight: bold;font-size: 13px;margin-left: 5px;">Oliver Cat</p>
+        </div>
+        <div class="button-block">
+            <button style="background-color: blue;border: none;padding-left: 12px;padding-right: 12px;color: wheat;padding-top: 6px;padding-bottom: 6px;border-radius: 5px;margin-right: 14px;font-weight: bold;">
+                Add Friend
+            </button>
+            <button style="background-color: rgb(238, 238, 238);border:none;padding-left:12px;padding-right:12px;font-weight:bold;padding-top:6px;padding-bottom:6px">
+                Message
+            </button>
+        </div>
+    </div>
+</body>
+</html>
