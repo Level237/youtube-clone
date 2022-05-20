@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 14b</title>
+    <style>
+        .overlay{
+            background-color: rgba(0, 0, 0, 0.541);
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .modal{
+            width: 300px;
+            background-color: rgba(231, 231, 231, 0.774);
+            padding-left: 12px;
+            padding-top: 12px;
+            padding-bottom: 12px;
+        }
+    </style>
+</head>
+<body style="height: 3000p;">
+    <div style="position:fixed;background-color: green;color:beige;right: 0;top: 0;width: 100px;bottom: 0 ;">
+        right sidebar
+    </div>
+    <div class="overlay">
+        <div class="modal">
+            <div class="modal-title">
+                Title
+            </div>
+            <div class="modalcontent">
+                modal content
+            </div>
+            <button>close</button>
+        </div>
+    </div>
+</body>
+</html>
