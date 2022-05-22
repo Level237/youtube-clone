@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 15f</title>
+    <style>
+        .container{
+            width: 300px;
+        }
+        .contain-img{
+            width: 250px;
+            position: relative;
+        }
+        .picture{
+            width: 250px;
+            height: 280px;
+            object-fit: cover;
+            object-position: center;
+        }
+        .sales{
+            color: white;
+            background-color: black;
+            position: absolute;
+            top: 12px;
+            right: 0;
+            padding-left: 7px;
+            padding-right: 7px;
+            padding-top: 6px;
+            padding-bottom: 6px;
+        }
+        .contain{
+            position: absolute;
+            background-color: rgba(255, 255, 255, 0.568);
+            bottom: 3px;
+            width: 250px;
+            height: 70px;
+            
+        }
+        button{
+            padding-top: 7px;
+            padding-bottom: 7px;
+            padding-right: 13px;
+            padding-left: 13px;
+            position: absolute;
+            top: 16px;
+            right:86px;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="contain-img">
+            <img class="picture" src="cat.jpg" alt="">
+            <div class="sales">
+                20% OFF
+            </div>
+            <div class="contain">
+                <div>
+                    <button>Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
