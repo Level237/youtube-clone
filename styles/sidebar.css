@@ -6,3 +6,15 @@
     top: 55px;
     width: 72px;
 }
+.sidebar-link{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.sidebar-link:hover{
+    background-color: rgb(238, 235, 235);
+}
+.sidebar-link img{
+    height: 35px;
+}
