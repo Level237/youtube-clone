@@ -14,15 +14,16 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    cursor: pointer;
 }
 .sidebar-link:hover{
     background-color: rgb(238, 235, 235);
 }
 .sidebar-link img{
-    height: 35px;
+    height: 27px;
     margin-bottom: 4px;
 }
 .sidebar-link div{
     font-family: Roboto,Arial;
-    font-size: 11px;
+    font-size: 10px;
 }

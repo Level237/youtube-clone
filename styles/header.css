@@ -39,7 +39,7 @@
 }
 .icon-search{
     height: 25px;
-    margin-top: 4px;
+    
     
 }
 .search-button{
@@ -53,6 +53,7 @@
     background-color: rgb(243, 242, 242);
 }
 .voice-button{
+    position: relative;
     height: 40px;
     width: 75px;
     border-radius: 20px;
@@ -118,4 +119,27 @@
     padding-bottom: 2px;
     border-radius: 10px;
     font-size: 10px;
+}
+.search-button .tooltip,.voice-button .tooltip{
+    position: absolute;
+    background-color: gray;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 2px;
+    bottom: -30px;
+    opacity: 0;
+    transition: opacity 0.15s;
+    pointer-events:none;
+    white-space: nowrap;
+}
+.search-button:hover .tooltip,.voice-button:hover .tooltip{
+    opacity: 1;
+}
+.search-button, .voice-button{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
