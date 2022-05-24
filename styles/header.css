@@ -120,24 +120,27 @@
     border-radius: 10px;
     font-size: 10px;
 }
-.search-button .tooltip,.voice-button .tooltip{
+.search-button .tooltip,.voice-button .tooltip,.upload-container .tooltip{
+    font-family: Roboto Arial;
     position: absolute;
     background-color: gray;
+    color: white;
     padding-top: 4px;
     padding-bottom: 4px;
     padding-left: 8px;
     padding-right: 8px;
     border-radius: 2px;
+    font-size: 12px;
     bottom: -30px;
     opacity: 0;
     transition: opacity 0.15s;
     pointer-events:none;
     white-space: nowrap;
 }
-.search-button:hover .tooltip,.voice-button:hover .tooltip{
+.search-button:hover .tooltip,.voice-button:hover .tooltip,.upload-container:hover .tooltip{
     opacity: 1;
 }
-.search-button, .voice-button{
+.search-button, .voice-button,.upload-container{
     position: relative;
     display: flex;
     justify-content: center;
