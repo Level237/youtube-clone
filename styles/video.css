@@ -19,6 +19,8 @@
 
 
 .chanel-picture {
+    position: relative;
+    cursor: pointer;
     
 }
 
@@ -71,4 +73,55 @@
     bottom: 8px;
     right: 5px;
     border-radius: 2px;
+}
+
+.tooltip-picture-container{
+    display: flex;
+    position: relative;
+    width: 230px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(240, 236, 236);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    box-shadow: 1px 2px 3px 0.1px rgb(119, 118, 118);
+    opacity: 0;
+    position: absolute;
+    bottom: -30px;
+}
+.chanel-picture:hover .tooltip-picture-container{
+    opacity: 1;
+}
+.chanel-picture .tooltip-picture-container{
+    transition: opacity 0.15s;
+}
+.tooltip-picture{
+    width: 48px;
+}
+
+.tooltip-information{
+    flex: 1;
+    margin-left: 8px;
+}
+.tooltip-picture img{
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
+.tooltip-title{
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.tooltip-info{
+    font-size: 14px;
+    margin-top: 6px;
+    font-weight: 10px;
+    color: gray;
+
 }
