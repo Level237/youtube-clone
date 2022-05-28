@@ -1,0 +1,158 @@
+0000000000000000000000000000000000000000 0e263400963c26c0ba29e6c8d5e6d124a058cc01 level237 <Bramslevel129@gmail.com> 1650886289 +0100	commit (initial): init commit
+0e263400963c26c0ba29e6c8d5e6d124a058cc01 0e263400963c26c0ba29e6c8d5e6d124a058cc01 level237 <Bramslevel129@gmail.com> 1650886298 +0100	Branch: renamed refs/heads/master to refs/heads/main
+0e263400963c26c0ba29e6c8d5e6d124a058cc01 5664a3a9d8f9ea7266762feb61be93e43134a03d level237 <Bramslevel129@gmail.com> 1650887353 +0100	commit: init button
+5664a3a9d8f9ea7266762feb61be93e43134a03d 1ef862a3ee87c02c9880c2f5bab35116f74945d2 level237 <Bramslevel129@gmail.com> 1650892957 +0100	commit: html layouts
+1ef862a3ee87c02c9880c2f5bab35116f74945d2 059d88a76692afe5a425eac6e995851b0fcfb165 level237 <Bramslevel129@gmail.com> 1650893066 +0100	commit: init file
+059d88a76692afe5a425eac6e995851b0fcfb165 69db9a3fbfa0d32e67f15e99d3eefe05ec2e88d4 level237 <Bramslevel129@gmail.com> 1650894357 +0100	commit: button style:color and background
+69db9a3fbfa0d32e67f15e99d3eefe05ec2e88d4 eaa1775b8356fe2ff521d958782d5050d54c5697 level237 <Bramslevel129@gmail.com> 1650895366 +0100	commit: button style:width and height
+eaa1775b8356fe2ff521d958782d5050d54c5697 7d1340445139dc6404584b9b8269bebd7a4478d6 level237 <Bramslevel129@gmail.com> 1650896043 +0100	commit: button style:border status
+7d1340445139dc6404584b9b8269bebd7a4478d6 f5ee5739bb7e2f72f74b15b28ce5c5932dc2c9bb level237 <Bramslevel129@gmail.com> 1650896140 +0100	commit: button style:pointer
+f5ee5739bb7e2f72f74b15b28ce5c5932dc2c9bb a72793f1cdfb209fff2b588ef2b5b88663ee6333 level237 <Bramslevel129@gmail.com> 1650978913 +0100	commit: button style:color,border,backgroud,margin
+a72793f1cdfb209fff2b588ef2b5b88663ee6333 2856f840f0e2d9f18a4615931d7012b7fdbd575e level237 <Bramslevel129@gmail.com> 1650979097 +0100	commit: init exercice:buttons
+2856f840f0e2d9f18a4615931d7012b7fdbd575e 938fb6a81717a33ea837c8537a31f2826091b8ea level237 <Bramslevel129@gmail.com> 1650979923 +0100	commit: exercice 1:Uber Button
+938fb6a81717a33ea837c8537a31f2826091b8ea 6099d27074795f47fd5a1cfa1104ab876646dff0 level237 <Bramslevel129@gmail.com> 1651031159 +0100	commit: exercice 1:Amazon Button
+6099d27074795f47fd5a1cfa1104ab876646dff0 9f4b82f7dfbc132c90e6c8e9347d6a67e938b1df level237 <Bramslevel129@gmail.com> 1651032076 +0100	commit: exercice 1:Github Button
+9f4b82f7dfbc132c90e6c8e9347d6a67e938b1df e654a15395e7dcf41f4aa1fd7e1a9cc73ee18153 level237 <Bramslevel129@gmail.com> 1651044453 +0100	commit: exercice 1:Bootstrap Button
+e654a15395e7dcf41f4aa1fd7e1a9cc73ee18153 f61155dde72962fc9282e1de2ad65c19b7311fe4 level237 <Bramslevel129@gmail.com> 1651059676 +0100	commit: exercice 1:Linkeding Button
+f61155dde72962fc9282e1de2ad65c19b7311fe4 69f53d8b1880ac4874d3dfbb2ef9eb725118dac2 level237 <Bramslevel129@gmail.com> 1651070179 +0100	commit: exercice 3:
+69f53d8b1880ac4874d3dfbb2ef9eb725118dac2 317138c3921bb7dd8680c9dcfba4b919eea055d8 level237 <Bramslevel129@gmail.com> 1651179740 +0100	commit: box-shadow
+317138c3921bb7dd8680c9dcfba4b919eea055d8 e935a9a79b2f484d4dd654d18496c0c066e9908e level237 <Bramslevel129@gmail.com> 1651180054 +0100	commit: uber button:opacity
+e935a9a79b2f484d4dd654d18496c0c066e9908e 7d4f3b2fa7ba367414de9c0fcdabf6f65777a5e8 level237 <Bramslevel129@gmail.com> 1651180262 +0100	commit: Amazon button:background color
+7d4f3b2fa7ba367414de9c0fcdabf6f65777a5e8 a1a1933d9f96baea05cb631efc65c139077bb89a level237 <Bramslevel129@gmail.com> 1651180692 +0100	commit: Github button:Box shadow
+a1a1933d9f96baea05cb631efc65c139077bb89a b743ac9abab7ca4d574358a7dfe73a11b5ad2a08 level237 <Bramslevel129@gmail.com> 1651181015 +0100	commit: Bootstrap Button:Backgound-color and color
+b743ac9abab7ca4d574358a7dfe73a11b5ad2a08 2062df22e66c2eed9a87e0380fcb615511a1e17d level237 <Bramslevel129@gmail.com> 1651198080 +0100	commit: linkeding button:background
+2062df22e66c2eed9a87e0380fcb615511a1e17d 463f3543dfa1a884070c6b2ce3c18ebb69c4cead level237 <Bramslevel129@gmail.com> 1651199067 +0100	commit: linkeding button:background
+463f3543dfa1a884070c6b2ce3c18ebb69c4cead 1f6c667f386c2f68fe945aa0e4cb407e1f04e017 level237 <Bramslevel129@gmail.com> 1651218055 +0100	commit: padding vs width/height
+1f6c667f386c2f68fe945aa0e4cb407e1f04e017 1d7ce8d21af45bcbddfc8be281fd9f467e68d4b7 level237 <Bramslevel129@gmail.com> 1651218676 +0100	commit: init exercice f
+1d7ce8d21af45bcbddfc8be281fd9f467e68d4b7 0525187fb50e28f642774ea4f4f6da9b2314abb7 level237 <Bramslevel129@gmail.com> 1651219730 +0100	commit: exercice 4f:padding vs width/height
+0525187fb50e28f642774ea4f4f6da9b2314abb7 773bc195139b481fd91e1613670fcf4f94310c2a level237 <Bramslevel129@gmail.com> 1651219904 +0100	commit: exercice 4a:padding vs width/height
+773bc195139b481fd91e1613670fcf4f94310c2a 39c52a6ebe2623b5f855eb5da2e5b5439029a50b level237 <Bramslevel129@gmail.com> 1651219963 +0100	commit: exercice 4a:padding vs width/height
+39c52a6ebe2623b5f855eb5da2e5b5439029a50b fcae66ae4167e5f8ec53fbe2f90d5bd28a9b8c7d level237 <Bramslevel129@gmail.com> 1651220263 +0100	commit: exercice 4f:padding vs width/height
+fcae66ae4167e5f8ec53fbe2f90d5bd28a9b8c7d 3813a6c3ba519f415c0a25bb87c2718d5e43cd17 level237 <Bramslevel129@gmail.com> 1651221170 +0100	commit: exercice 4h
+3813a6c3ba519f415c0a25bb87c2718d5e43cd17 c116a61c7d8b6d2f1b6000399ab68be38f676134 level237 <Bramslevel129@gmail.com> 1651221207 +0100	commit: exercice 4h:pagination
+c116a61c7d8b6d2f1b6000399ab68be38f676134 820b0fb97ced997c51fe681615f81074bf5bacb0 level237 <Bramslevel129@gmail.com> 1651222315 +0100	commit: exercice 4i:stretch
+820b0fb97ced997c51fe681615f81074bf5bacb0 d799f652678a0ca0f579c6daad448173a4d0aa2e level237 <Bramslevel129@gmail.com> 1651269888 +0100	commit: exercice 4j:shadow
+d799f652678a0ca0f579c6daad448173a4d0aa2e 42449b5d3536ecb3449ad4e6e7e6f50c004b0ce8 level237 <Bramslevel129@gmail.com> 1651302364 +0100	commit: exercice 4k:padding and margin together
+42449b5d3536ecb3449ad4e6e7e6f50c004b0ce8 d9ff64db5937f5d8eaa5b9e7b1aa30f950f4d37b level237 <Bramslevel129@gmail.com> 1651304236 +0100	commit: video stats:paragraph
+d9ff64db5937f5d8eaa5b9e7b1aa30f950f4d37b 02cd5d2668790b7c74e4c9561a6d0599ce1bdbe6 level237 <Bramslevel129@gmail.com> 1651304527 +0100	commit: color text
+02cd5d2668790b7c74e4c9561a6d0599ce1bdbe6 5395a69689358365c2313f9d8809bd4580b4fa44 level237 <Bramslevel129@gmail.com> 1651306412 +0100	commit: video description:style
+5395a69689358365c2313f9d8809bd4580b4fa44 aace3cc7c083d31f47412b585f250744bfe1046d level237 <Bramslevel129@gmail.com> 1651308417 +0100	commit: video description:style
+aace3cc7c083d31f47412b585f250744bfe1046d 31737dfb34e5a615a28adc1ff88902d86cd1d211 level237 <Bramslevel129@gmail.com> 1651376153 +0100	commit: text and style
+31737dfb34e5a615a28adc1ff88902d86cd1d211 16afd0736c33012306345dcffdbd1badf78fac25 level237 <Bramslevel129@gmail.com> 1651376437 +0100	commit: text and style:Exercises
+16afd0736c33012306345dcffdbd1badf78fac25 de1c225f50f7f98037af592e3f6291208d849df9 level237 <Bramslevel129@gmail.com> 1651377188 +0100	commit: font family and text:exercise 5b
+de1c225f50f7f98037af592e3f6291208d849df9 949d95e72f60610638c379d655cb323695c477b0 level237 <Bramslevel129@gmail.com> 1651378311 +0100	commit: font family and text:exercise 5c
+949d95e72f60610638c379d655cb323695c477b0 5f643903de245ef2f23a44a1bde0c6e20fc0b6e1 level237 <Bramslevel129@gmail.com> 1651379137 +0100	commit: font family and text:exercise 5d
+5f643903de245ef2f23a44a1bde0c6e20fc0b6e1 a6a37288ba75d4f3a12930b30bddbe143c657c1a level237 <bramslevel129@gmail.com> 1651740224 +0200	commit: init style
+a6a37288ba75d4f3a12930b30bddbe143c657c1a 901b188be675525524cbf4cc34d8ff42662afc89 level237 <bramslevel129@gmail.com> 1651741978 +0200	commit: init style
+901b188be675525524cbf4cc34d8ff42662afc89 f9f3d38879dad888928f8007e61ebd77cccc9995 level237 <Bramslevel129@gmail.com> 1652196481 +0200	commit: update
+f9f3d38879dad888928f8007e61ebd77cccc9995 030c281515a2b29d4f137a961c198ffa3991e9ae level237 <Bramslevel129@gmail.com> 1652199111 +0200	commit: police style
+030c281515a2b29d4f137a961c198ffa3991e9ae 974c5c5fe38fe6f78647777255d355a88d91019d level237 <Bramslevel129@gmail.com> 1652200046 +0200	commit: installation of files
+974c5c5fe38fe6f78647777255d355a88d91019d 2404c880057727830d56102fe06f73d5e64b66bf level237 <Bramslevel129@gmail.com> 1652200117 +0200	commit: init youtube clone
+2404c880057727830d56102fe06f73d5e64b66bf 4e2e1b4a4dcabbc9e9845167a43936b3e662fad0 level237 <Bramslevel129@gmail.com> 1652208370 +0200	commit: picture display
+4e2e1b4a4dcabbc9e9845167a43936b3e662fad0 3551a98424107da04e211f4dcb0a5bf7bd20c299 level237 <Bramslevel129@gmail.com> 1652208439 +0200	commit: folder thumbnails
+3551a98424107da04e211f4dcb0a5bf7bd20c299 c186e76bfaca6c896e84f30edc9533abfee1db3c level237 <Bramslevel129@gmail.com> 1652276112 +0200	commit: init exercise 7
+c186e76bfaca6c896e84f30edc9533abfee1db3c e58b587fc8780c4981ba3662a6677e037cf56a95 level237 <Bramslevel129@gmail.com> 1652276250 +0200	commit: init exercise 7a
+e58b587fc8780c4981ba3662a6677e037cf56a95 309c107eb7c7e8f708655529c55e833e04dfdff6 level237 <Bramslevel129@gmail.com> 1652276688 +0200	commit: init exercise 7b
+309c107eb7c7e8f708655529c55e833e04dfdff6 55be7ab574d8b470b9e4b2e6ef18ec56df98c5b1 level237 <Bramslevel129@gmail.com> 1652277951 +0200	commit: make the image a square,center the image within the square
+55be7ab574d8b470b9e4b2e6ef18ec56df98c5b1 75ff2f1062fe07881b5ebdca675a936cd74bfb84 level237 <Bramslevel129@gmail.com> 1652278096 +0200	commit: init exercise 7C
+75ff2f1062fe07881b5ebdca675a936cd74bfb84 adeb699df2af09335c64f0a735c2846557d4b9de level237 <Bramslevel129@gmail.com> 1652278378 +0200	commit: make the image a circle(using border-radius)
+adeb699df2af09335c64f0a735c2846557d4b9de 79732ceb0f5828e1d3dd675ca9d220c5300ca9b0 level237 <Bramslevel129@gmail.com> 1652279968 +0200	commit: with rounded corners
+79732ceb0f5828e1d3dd675ca9d220c5300ca9b0 401f15cebb683003eeeaa14fadc5994eaa510bcc level237 <Bramslevel129@gmail.com> 1652283257 +0200	commit: with a shadow,and no border
+401f15cebb683003eeeaa14fadc5994eaa510bcc 96830b59407e9f40502f234b8304f76f2e5a3bd2 level237 <Bramslevel129@gmail.com> 1652300970 +0200	commit: linkeding signup
+96830b59407e9f40502f234b8304f76f2e5a3bd2 0d7e15f69e56bea16ac1f5794a348ff492ef8c61 level237 <Bramslevel129@gmail.com> 1652308138 +0200	commit: twitter text box
+0d7e15f69e56bea16ac1f5794a348ff492ef8c61 e56b8019be3342ec6b3e2ed07cc40140679f9bf0 level237 <Bramslevel129@gmail.com> 1652369328 +0200	commit: init display
+e56b8019be3342ec6b3e2ed07cc40140679f9bf0 9a19e4f6e99ec920f5d03f9ada01b2e70e09d61f level237 <Bramslevel129@gmail.com> 1652369577 +0200	commit: init display
+9a19e4f6e99ec920f5d03f9ada01b2e70e09d61f 549ecf34857360dcca77f24b4d0a592511bf72c1 level237 <Bramslevel129@gmail.com> 1652370003 +0200	commit: Create 2 text boxes and put them on separates lines
+549ecf34857360dcca77f24b4d0a592511bf72c1 59b63e0fe9c4fd9a967be93126138641b76f5f07 level237 <Bramslevel129@gmail.com> 1652370564 +0200	commit: Create a paragraph and 2 buttons and place them on the same line
+59b63e0fe9c4fd9a967be93126138641b76f5f07 d6cf04439c81ef03ffd0955ca526934d40135a25 level237 <Bramslevel129@gmail.com> 1652371323 +0200	commit: Google search
+d6cf04439c81ef03ffd0955ca526934d40135a25 7790a59b7c4aaab9c4c8c56a9b3a042a225ebeae level237 <Bramslevel129@gmail.com> 1652372707 +0200	commit: Recreate the following designs:sign up form
+7790a59b7c4aaab9c4c8c56a9b3a042a225ebeae 387e49570fd75a9afdba07bbbc15a504fdb551e3 level237 <Bramslevel129@gmail.com> 1652373653 +0200	commit: Uber request-a-ride form
+387e49570fd75a9afdba07bbbc15a504fdb551e3 3e2aa1dce217adba6b31aace850facc55284c27c level237 <Bramslevel129@gmail.com> 1652426215 +0200	commit: init div:video preview
+3e2aa1dce217adba6b31aace850facc55284c27c d8f493cfbccbc3684f5ba86f81cca083141a30a1 level237 <Bramslevel129@gmail.com> 1652426264 +0200	commit: init exercise 9
+d8f493cfbccbc3684f5ba86f81cca083141a30a1 586f2ed95be5d50bcd34aecf123bb2136016972b level237 <Bramslevel129@gmail.com> 1652426455 +0200	commit: exercise 9a:red square
+586f2ed95be5d50bcd34aecf123bb2136016972b 116c7f45c1b4e0a73e9a1b80e0223207190369cd level237 <Bramslevel129@gmail.com> 1652426617 +0200	commit: exercise 9b:green circle
+116c7f45c1b4e0a73e9a1b80e0223207190369cd c66635d137dd952da39ec247adae9609ed029129 level237 <Bramslevel129@gmail.com> 1652427453 +0200	commit: exercise 9c:recreate this design by wrapping the element in a <div> and adding a border
+c66635d137dd952da39ec247adae9609ed029129 88907107abc90e6525e0301d6e1fcfa9844a0872 level237 <Bramslevel129@gmail.com> 1652427457 +0200	commit: exercise 9c:recreate this design by wrapping the element in a <div> and adding a border
+88907107abc90e6525e0301d6e1fcfa9844a0872 8ddce8c10e4e204d7c229d30d8698782a8e30ac9 level237 <Bramslevel129@gmail.com> 1652428717 +0200	commit: exercise 9d:Recreate this design using a <div> with 2 paragraph inside
+8ddce8c10e4e204d7c229d30d8698782a8e30ac9 09d1fd473f8270135238752efeda9d56542c18b0 level237 <Bramslevel129@gmail.com> 1652434835 +0200	commit: exercise 9e:tweet post
+09d1fd473f8270135238752efeda9d56542c18b0 0d0d41f9726b2f4c7dfa94d3f1091b7470f50754 level237 <Bramslevel129@gmail.com> 1652435041 +0200	commit: init and update
+0d0d41f9726b2f4c7dfa94d3f1091b7470f50754 e67acd3cd527ea39a2282f57a4c66fc1aacf78f4 level237 <Bramslevel129@gmail.com> 1652436592 +0200	commit: exercise 9f:card invitation
+e67acd3cd527ea39a2282f57a4c66fc1aacf78f4 2429d858b2ccd3fb9fb1b9c163a6bd0bec640171 level237 <Bramslevel129@gmail.com> 1652437713 +0200	commit: exercise 9g:list card invitation
+2429d858b2ccd3fb9fb1b9c163a6bd0bec640171 a297a9c8af19ce8cd9f6d818ae27e413eafc73a7 level237 <Bramslevel129@gmail.com> 1652438939 +0200	commit: exercise 9h:google block
+a297a9c8af19ce8cd9f6d818ae27e413eafc73a7 a3d512c23b7f004fd03d80da261da73f09e0715f level237 <Bramslevel129@gmail.com> 1652512622 +0200	commit: resize block
+a3d512c23b7f004fd03d80da261da73f09e0715f bc4c6d078e868c942a0dfb4552376dfda12d4e17 level237 <Bramslevel129@gmail.com> 1652545591 +0200	commit: vertical layout & horizontal layout
+bc4c6d078e868c942a0dfb4552376dfda12d4e17 6b39771515a2be6c166908658fe92f1de488fe80 level237 <Bramslevel129@gmail.com> 1652546534 +0200	commit: bloc duplicate
+6b39771515a2be6c166908658fe92f1de488fe80 1c97d33119b69793fa91d3f85e007d5e083cf459 level237 <Bramslevel129@gmail.com> 1652547529 +0200	commit: update
+1c97d33119b69793fa91d3f85e007d5e083cf459 22366d54c349aad8b387720d09c3081f21122994 level237 <Bramslevel129@gmail.com> 1652557910 +0200	commit: init exercice:technic layout
+22366d54c349aad8b387720d09c3081f21122994 21cca46973baf1bf591a33fd91773b1b0ea1d6db level237 <Bramslevel129@gmail.com> 1652587214 +0200	commit: exercise 10a:Nested Layouts Technique
+21cca46973baf1bf591a33fd91773b1b0ea1d6db 4a9b692dc6ac424dc4f5755e26c1aa88fa6eb248 level237 <Bramslevel129@gmail.com> 1652587283 +0200	commit: exercise 10a:update color
+4a9b692dc6ac424dc4f5755e26c1aa88fa6eb248 71b5e998852313c1d2c8e35b3af6c34f1d456cec level237 <Bramslevel129@gmail.com> 1652588809 +0200	commit: exercise 10b:box container
+71b5e998852313c1d2c8e35b3af6c34f1d456cec a8762b724d060ced21c47784249eb28c7897f8f5 level237 <Bramslevel129@gmail.com> 1652590681 +0200	commit: exercise 10c:init
+a8762b724d060ced21c47784249eb28c7897f8f5 e95ad8810002fed9faa500c2e0ae70b6c6c1e84d level237 <Bramslevel129@gmail.com> 1652600238 +0200	commit: exercise 10c:uodate
+e95ad8810002fed9faa500c2e0ae70b6c6c1e84d 00bb7eb05a7ce4f41e96bf6c3a3165de257361ef level237 <Bramslevel129@gmail.com> 1652604151 +0200	commit: exercise 10d:Vertical layout and horizontal layout
+00bb7eb05a7ce4f41e96bf6c3a3165de257361ef ca4b6aa23189dc015057f976f338b7d33ae53449 level237 <Bramslevel129@gmail.com> 1652604688 +0200	commit: Grid pratice
+ca4b6aa23189dc015057f976f338b7d33ae53449 a4cb694212f407380983f8869ecd4622e7ba5cb2 level237 <Bramslevel129@gmail.com> 1652605162 +0200	commit: Grid-template-colum:test
+a4cb694212f407380983f8869ecd4622e7ba5cb2 fc552dbeaf81999ba34ec8640e9b7b88cf65026e level237 <Bramslevel129@gmail.com> 1652638064 +0200	commit: grid layout:testing
+fc552dbeaf81999ba34ec8640e9b7b88cf65026e 32fe2a84435ba1bb6e70dee97d2f6c0c55fa99ad level237 <Bramslevel129@gmail.com> 1652642253 +0200	commit: grid layout:youtube
+32fe2a84435ba1bb6e70dee97d2f6c0c55fa99ad 40edfa21b07552f08db33194c12b53c112b367a6 level237 <Bramslevel129@gmail.com> 1652643911 +0200	commit: grid layout:exercise 11a
+40edfa21b07552f08db33194c12b53c112b367a6 86feb40389941f97660d16ed854d5bf29b0ef8a4 level237 <Bramslevel129@gmail.com> 1652645146 +0200	commit: grid layout:exercise 11b
+86feb40389941f97660d16ed854d5bf29b0ef8a4 542762806eb135e28cf7a4a0c5ff1fa2ee896320 level237 <Bramslevel129@gmail.com> 1652645773 +0200	commit: grid layout:exercise 11c
+542762806eb135e28cf7a4a0c5ff1fa2ee896320 f926f55998d1ccd20b426ab9b0808dde6601ca42 level237 <Bramslevel129@gmail.com> 1652686309 +0200	commit: Exercise 11d
+f926f55998d1ccd20b426ab9b0808dde6601ca42 d1f1525d352964e2b16f1f9d447386c2d07e1e14 level237 <Bramslevel129@gmail.com> 1652689497 +0200	commit: Flexbox init
+d1f1525d352964e2b16f1f9d447386c2d07e1e14 bba59824f039de210641ff3eb2d72edeaf0b2f0a level237 <Bramslevel129@gmail.com> 1652690521 +0200	commit: justify content:space-beetween & center
+bba59824f039de210641ff3eb2d72edeaf0b2f0a 6db0e3d4da8e503767d5d625a7eb768321162ddd level237 <Bramslevel129@gmail.com> 1652694795 +0200	commit: justify content
+6db0e3d4da8e503767d5d625a7eb768321162ddd af79ed43f4b4f6374380d538e50c48989c547187 level237 <Bramslevel129@gmail.com> 1652694959 +0200	commit: display:flex init youtube
+af79ed43f4b4f6374380d538e50c48989c547187 f7c85e5c5fcac5f5bed0e6df8892c294cf9421fc level237 <Bramslevel129@gmail.com> 1652698260 +0200	commit: style
+f7c85e5c5fcac5f5bed0e6df8892c294cf9421fc 46b5c4749de4551368b77119d8211bd8a4676d98 level237 <Bramslevel129@gmail.com> 1652698343 +0200	commit: header init
+46b5c4749de4551368b77119d8211bd8a4676d98 8923a59c539bee5af7287b95ef8aeb43a808bb18 level237 <Bramslevel129@gmail.com> 1652698919 +0200	commit: Exercise FlexBox:init
+8923a59c539bee5af7287b95ef8aeb43a808bb18 53059e34c2dcb7d559c4a4349ca75d479435021e level237 <Bramslevel129@gmail.com> 1652699733 +0200	commit: Exercise FlexBox:exercise 12a
+53059e34c2dcb7d559c4a4349ca75d479435021e e31a6fde6e62769953720f726833eacc4a52526d level237 <Bramslevel129@gmail.com> 1652700185 +0200	commit: Exercise FlexBox:exercise 12b
+e31a6fde6e62769953720f726833eacc4a52526d 75e4abac3bd58dd328389ce6aa9531bb2b64fa8d level237 <Bramslevel129@gmail.com> 1652700982 +0200	commit: Exercise FlexBox:exercise 12c
+75e4abac3bd58dd328389ce6aa9531bb2b64fa8d 12630c40569e984675c639f93d45db27cd1bf04c level237 <Bramslevel129@gmail.com> 1652701648 +0200	commit: Exercise FlexBox:exercise 12d
+12630c40569e984675c639f93d45db27cd1bf04c 67299542adc2fd9fa845bd9f96be4fa074ca5295 level237 <Bramslevel129@gmail.com> 1652716808 +0200	commit: Exercise FlexBox:Exercise 12e
+67299542adc2fd9fa845bd9f96be4fa074ca5295 9dbabf8feeb9743507c19418ca276861a30ceeda level237 <Bramslevel129@gmail.com> 1652718714 +0200	commit: Exercise FlexBox:Exercise 12f
+9dbabf8feeb9743507c19418ca276861a30ceeda 22e23c3c528bad73e565d5dc8b234d09253a90f8 level237 <Bramslevel129@gmail.com> 1652720786 +0200	commit: Exercise FlexBox:Exercise 12g
+22e23c3c528bad73e565d5dc8b234d09253a90f8 e614e8316509cd2bafeb069c77045b1b42e76d25 level237 <Bramslevel129@gmail.com> 1652721217 +0200	commit: Icon init
+e614e8316509cd2bafeb069c77045b1b42e76d25 5d3f93b466237c044e3a378a801570be25ab9c8d level237 <Bramslevel129@gmail.com> 1652721827 +0200	commit: header icon:hamburger icon & youtube icon
+5d3f93b466237c044e3a378a801570be25ab9c8d 63196d0d69fd4214abeb96141fefc42be9b8c352 level237 <Bramslevel129@gmail.com> 1652773371 +0200	commit: youtube header
+63196d0d69fd4214abeb96141fefc42be9b8c352 759f8d9097ac46075fb5e5309855364c20440b6f level237 <Bramslevel129@gmail.com> 1652825461 +0200	commit: exercise 13:init
+759f8d9097ac46075fb5e5309855364c20440b6f b2e4ddcba5a68bc785cab389b30996854af2846e level237 <Bramslevel129@gmail.com> 1652857963 +0200	commit: flexbox exercise:Exercise 13a
+b2e4ddcba5a68bc785cab389b30996854af2846e a64d9e706bf440f610439eaf3b5b0543fc4bcc34 level237 <Bramslevel129@gmail.com> 1652858824 +0200	commit: flexbox exercise:Exercise 13b
+a64d9e706bf440f610439eaf3b5b0543fc4bcc34 29fcfb343dee6ac4342543baa568dc029843a39e level237 <Bramslevel129@gmail.com> 1652865764 +0200	commit: flexbox exercise:Here's a design from Gmail IOS
+29fcfb343dee6ac4342543baa568dc029843a39e 5c0d667d97d43f67cc967a29c8d9df465bbd28e7 level237 <Bramslevel129@gmail.com> 1652960448 +0200	commit: flex in the flex
+5c0d667d97d43f67cc967a29c8d9df465bbd28e7 b64dd7b4310b688db5875fa8f5c0d464923e55cd level237 <Bramslevel129@gmail.com> 1652963282 +0200	commit: break down this design into horizontal and vertical layouts
+b64dd7b4310b688db5875fa8f5c0d464923e55cd 1f087f6735160ecd95243ac061a854780317fa12 level237 <Bramslevel129@gmail.com> 1652999361 +0200	commit: position init
+1f087f6735160ecd95243ac061a854780317fa12 4fc01862abd59e9b2b604a69baba538e8c063bd7 level237 <Bramslevel129@gmail.com> 1653000208 +0200	commit: position fixed
+4fc01862abd59e9b2b604a69baba538e8c063bd7 cd3648c3fda75bfbee12e77c1ad0b6528bc7c914 level237 <Bramslevel129@gmail.com> 1653000542 +0200	commit: position fixed:youtube header
+cd3648c3fda75bfbee12e77c1ad0b6528bc7c914 2a04ed42b9d46821837789a69e7884a1b7002cbd level237 <Bramslevel129@gmail.com> 1653000981 +0200	commit: youtube header:border design
+2a04ed42b9d46821837789a69e7884a1b7002cbd 8e948dbd16fb7b9b7c54c82cab70fdf1608b5152 level237 <Bramslevel129@gmail.com> 1653001481 +0200	commit: sidebar pratice
+8e948dbd16fb7b9b7c54c82cab70fdf1608b5152 cd6e07aec8098edad8ce555bf0dc746303fc71a2 level237 <Bramslevel129@gmail.com> 1653002189 +0200	commit: sidebar youtube
+cd6e07aec8098edad8ce555bf0dc746303fc71a2 9d11114a06ec20a310aaa05a91938010746f2b94 level237 <Bramslevel129@gmail.com> 1653002247 +0200	commit: exercise 14:init
+9d11114a06ec20a310aaa05a91938010746f2b94 98112b203166f9d9a11015247d482e33ae557e7c level237 <Bramslevel129@gmail.com> 1653002997 +0200	commit: exercise 14a
+98112b203166f9d9a11015247d482e33ae557e7c 4c1ff0697659bd2318610efab72c52ebb850992d level237 <Bramslevel129@gmail.com> 1653006640 +0200	commit: exercise 14b
+4c1ff0697659bd2318610efab72c52ebb850992d e5b829551c278e03f48487eaaa7ef3b952c789b8 level237 <Bramslevel129@gmail.com> 1653006669 +0200	commit: exercise 14c
+e5b829551c278e03f48487eaaa7ef3b952c789b8 346ca1f789d9742b727c5c740ab09c448cb61da5 level237 <Bramslevel129@gmail.com> 1653007601 +0200	commit: exercise 14d
+346ca1f789d9742b727c5c740ab09c448cb61da5 f7aa1f99bb7058bdb225230daf8f047fd70d4f6b level237 <Bramslevel129@gmail.com> 1653039233 +0200	commit: exercise 14e
+f7aa1f99bb7058bdb225230daf8f047fd70d4f6b 4e605dc300bd8c015ec605adc8ec3be0f1dc51b5 level237 <Bramslevel129@gmail.com> 1653057917 +0200	commit: exercise 14f
+4e605dc300bd8c015ec605adc8ec3be0f1dc51b5 1937a460af341c4b3f2dbe42036f048b49c48fe8 level237 <Bramslevel129@gmail.com> 1653128468 +0200	commit: position absolute:init
+1937a460af341c4b3f2dbe42036f048b49c48fe8 95440809fc6a01cd27d67c081b1384692d692429 level237 <Bramslevel129@gmail.com> 1653129881 +0200	commit: position absolute:put inside in the position fixed
+95440809fc6a01cd27d67c081b1384692d692429 05828d3ee102590102596eb44df0cad7126fd7ce level237 <Bramslevel129@gmail.com> 1653219497 +0200	commit: position absolute:put inside in the position relative
+05828d3ee102590102596eb44df0cad7126fd7ce 5ef0ae28930c9ed2b73cd886df733c1619f591da level237 <Bramslevel129@gmail.com> 1653225210 +0200	commit: video time
+5ef0ae28930c9ed2b73cd886df733c1619f591da c938392d6c95fa6b46ddec0ab2623da9f013cdf0 level237 <Bramslevel129@gmail.com> 1653226843 +0200	commit: notification count:badge
+c938392d6c95fa6b46ddec0ab2623da9f013cdf0 91031ae2b99949906a1aa2a9db14546224e29d78 level237 <Bramslevel129@gmail.com> 1653243394 +0200	commit: init Exercise 15
+91031ae2b99949906a1aa2a9db14546224e29d78 1886d0432296b385ad71c96c9899cf45a8081736 level237 <Bramslevel129@gmail.com> 1653244596 +0200	commit: Exercise 15a:close button
+1886d0432296b385ad71c96c9899cf45a8081736 27bb4f5270d490d258a3165ab867abc1df1d95f6 level237 <Bramslevel129@gmail.com> 1653256475 +0200	commit: update
+27bb4f5270d490d258a3165ab867abc1df1d95f6 03f59623becde2dbaad19ca00a5b5c16a595ac2a level237 <Bramslevel129@gmail.com> 1653256820 +0200	commit: exercise 15b
+03f59623becde2dbaad19ca00a5b5c16a595ac2a 55904eb564229e6a5071bdb6ebf734d156e05a8f level237 <Bramslevel129@gmail.com> 1653257239 +0200	commit: exercise 15c:close button
+55904eb564229e6a5071bdb6ebf734d156e05a8f 90e11e38529ac3192da830997d4ac625389355b9 level237 <Bramslevel129@gmail.com> 1653257778 +0200	commit: exercise 15d
+90e11e38529ac3192da830997d4ac625389355b9 cfccf2a64ba14de8945f6ef2c540a9c18ffa6007 level237 <Bramslevel129@gmail.com> 1653258752 +0200	commit: exercise 15f
+cfccf2a64ba14de8945f6ef2c540a9c18ffa6007 8ae2cac189f8d0afe44816cd3062be0cda67ab32 level237 <Bramslevel129@gmail.com> 1653259557 +0200	commit: exercise 15f
+8ae2cac189f8d0afe44816cd3062be0cda67ab32 19a59c5b688e2bac7531c291aed138889adbda5c level237 <Bramslevel129@gmail.com> 1653262445 +0200	commit: insert icon in the sidebar
+19a59c5b688e2bac7531c291aed138889adbda5c eedbdb144ab1ee2aacb5d7cdf6dced734320478a level237 <Bramslevel129@gmail.com> 1653263551 +0200	commit: icon sidebar
+eedbdb144ab1ee2aacb5d7cdf6dced734320478a 1f4cf05bd68c1fca9f72810ad55bf14bee7da920 level237 <Bramslevel129@gmail.com> 1653384668 +0200	commit: tooltip init
+1f4cf05bd68c1fca9f72810ad55bf14bee7da920 94eb12804d048fbb666b5eb5332819efb2da6146 level237 <Bramslevel129@gmail.com> 1653385857 +0200	commit: tooltip resize
+94eb12804d048fbb666b5eb5332819efb2da6146 7ecb7e3f95e320b953910b5bd8da03896310e092 level237 <Bramslevel129@gmail.com> 1653466374 +0200	commit: tootip
+7ecb7e3f95e320b953910b5bd8da03896310e092 035f74a365daabe82a478797e11a632e3f35fb85 level237 <Bramslevel129@gmail.com> 1653476908 +0200	commit: tootip video
+035f74a365daabe82a478797e11a632e3f35fb85 3c70956e5e05cdc8a1bd1f62ee790e9298134459 level237 <Bramslevel129@gmail.com> 1653666502 +0200	commit: media-query:init
+3c70956e5e05cdc8a1bd1f62ee790e9298134459 ca56a74b9b24f3f2b5cf1ac86931c1b1410fa358 level237 <Bramslevel129@gmail.com> 1653722387 +0200	commit: update
+ca56a74b9b24f3f2b5cf1ac86931c1b1410fa358 7e9897c71a39a768dcdddd0086c776d747d664ae level237 <Bramslevel129@gmail.com> 1653724755 +0200	commit: youtube clone
