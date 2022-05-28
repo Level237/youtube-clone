@@ -57,11 +57,17 @@
     .video-grid {
       grid-template-columns: 1fr 1fr;
     }
+    body{
+        padding-right: 20px;
+    }
   }
   
   @media (min-width: 751px) and (max-width: 999px) {
     .video-grid {
       grid-template-columns: 1fr 1fr 1fr;
+    }
+    body{
+        padding-right: 20px;
     }
   }
   
@@ -72,6 +78,21 @@
     body{
         padding-right: 20px;
     }
+    .picture{
+        width: 28px;
+    }
+    .video-title{
+        font-size: 14px;
+    }
+    .video-info-grid{
+        display: grid;
+        grid-template-columns: 40px 1fr;
+    }
+  }
+  @media (max-width:500px) {
+    .video-grid {
+        grid-template-columns: 1fr;
+      }
   }
 .video-time{
     font-family: Roboto,Arial;
